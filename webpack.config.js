@@ -29,7 +29,8 @@ plugins: [
       Examples: 'app/components/Examples.jsx',
       WeatherSubmit: 'app/components/WeatherSubmit.jsx',
       WeatherMessage: 'app/components/WeatherMessage.jsx',
-      openWeatherMap: 'app/api/openWeatherMap.jsx'
+      openWeatherMap: 'app/api/openWeatherMap.jsx',
+      ErrorModal: 'app/components/ErrorModal.jsx'
     },
     extensions: ['','.js','.jsx']
   },
